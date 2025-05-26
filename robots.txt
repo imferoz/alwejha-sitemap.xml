@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /login/
+Disallow: /private/
+Disallow: /tmp/
+Disallow: /test/
+Disallow: /wp-admin/
+Disallow: /cgi-bin/
+Disallow: /*?*
+Disallow: /*.php$
+
+Crawl-delay: 5
+Sitemap: https://www.alwejhagroup.com/sitemap.xml
